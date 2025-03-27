@@ -64,20 +64,7 @@ Plot feature distributions before/after scaling.
 Generate confusion matrices and accuracy bar charts.
 
 
-File Structure
-Copy
-banknote-perceptron/
-├── data/                   # Dataset (CSV format)
-│   └── banknote_authentication.csv
-├── notebooks/              # Jupyter Notebook for analysis
-│   └── perceptron_scaling_comparison.ipynb
-├── scripts/                # Python scripts (optional)
-│   └── perceptron_scaling.py
-├── results/                # Outputs (plots, metrics)
-│   ├── accuracy_scores.png
-│   └── feature_distributions.png
-├── requirements.txt        # Dependencies
-└── README.md
+
 
 Results
 Standardization typically performs best due to Gaussian-like feature distributions.
