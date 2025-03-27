@@ -1,5 +1,3 @@
-# Perceptron-Feature-Scaling-Tutorial
-A tutorial on how feature scaling impacts Perceptron performance.
 # Perceptron Feature Scaling Tutorial
 
 This repository contains the code and materials for a tutorial on how feature scaling impacts the performance of the Perceptron algorithm.
